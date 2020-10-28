@@ -1,2 +1,2 @@
-# CSC110
-Classwork for CSC110 (2018)
+# Python Practice
+Mostly Classwork for CSC110 (2018)
